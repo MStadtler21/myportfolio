@@ -1,0 +1,29 @@
+/* .form-group { 
+    margin: 35px;
+    padding: 10px;
+}
+input, select, button {
+    box-shadow: 5px 5px 2px 0px rgba(0,0,0,.5);
+} */
+
+.contact {
+    padding: 15px;
+    margin: 10px;
+    color: rgb(236, 230, 230);
+}
+
+.contactInfo {
+    background: #3a52aa;
+    box-shadow: 5px 5px 2px 0px rgba(0,0,0,.5);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+
+a {
+    color: rgb(236, 230, 230);
+}
+
+a:hover {
+    color: rgb(173, 210, 219);
+}

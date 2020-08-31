@@ -1,0 +1,15 @@
+.navbar {
+    background: #191B53;
+    color: rgb(236, 230, 230);
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a {
+    color: rgb(236, 230, 230);
+}
+
+a:hover {
+    color: rgb(173, 210, 219);
+}
