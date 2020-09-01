@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from 'react';
 
 const Project = ({ item: { img, alt, title, descrip, href, deployed } }) => {
