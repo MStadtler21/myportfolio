@@ -13,7 +13,7 @@ import Contact from './components/Contact';
 function App() {
   return (
     <>
-    <Router basename="/myportfolio">
+    <Router>
     <Navbar />
     <body>
     <Route exact path="/" component={AboutMe} />
