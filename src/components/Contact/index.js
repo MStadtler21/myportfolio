@@ -9,13 +9,13 @@ const Contact = () => {
         <div className="contactInfo">
         <h1>Contact Me</h1>
         <p>
-            <strong>Email: </strong> andyjkepson@gmail.com
+            <strong>Email: </strong> powdersteamboat@gmail.com
         </p>
         <p> 
             <strong>Phone: </strong> 303 552-8010
         </p>
         <p>
-            <a href="https://docs.google.com/document/d/11uTRKGqfClk76oUCO2OqINOqyKeUsav7abOKp8FDxUw/edit?usp=sharing" target="_blank"><strong>View Resume</strong></a>
+            <a href="https://docs.google.com/document/d/1U-qOk98lDYp8KPVqC81AsIvx82CtyC0G8QSQjH11F8A/edit?usp=sharing" target="_blank"><strong>View Resume</strong></a>
         </p>
         </div>
         </div>

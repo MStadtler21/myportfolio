@@ -6,7 +6,7 @@ const AboutMe = () => {
         <div className="about-me">
             <h1>About Me</h1>
             <p>
-            Matthias Stadtler is a web developer from Munich, Germany currently residing in Colorado.
+             I am a web developer from Munich, Germany currently residing in Colorado.
             </p>
             <p>
             I have spent the last 12 years working in kitchens in a variety of positions. From starting as a dishwasher at 15 years old, to becoming a Sous Chef at an award winning restaurant, I have never stopped growing and finding new things to be passionate about.

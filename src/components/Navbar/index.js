@@ -8,7 +8,7 @@ const Navbar = () => {
 
     return(
     <nav class="navbar navbar-expand-lg">
-  <div class="navbar-brand" href="/">Andrew Kepson Web Development</div>
+  <div class="navbar-brand" href="/">Matthias Stadtler Web Development</div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
