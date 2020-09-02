@@ -17,8 +17,7 @@
     margin: 10px;
     background: #3a52aa;
     box-shadow: 5px 5px 2px 0px rgba(0,0,0,.5);
-    color: rgb(236, 230, 230);
-    opacity: 90%;
+    color:rgb(236, 230, 230);
     display: flex;
     overflow: auto;
 }
