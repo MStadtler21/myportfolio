@@ -15,11 +15,9 @@ function App() {
     <>
     <Router basename="/myportfolio">
     <Navbar />
-    <body>
     <Route exact path="/" component={AboutMe} />
     <Route exact path="/Portfolio" component={Portfolio} />
     <Route exact path="/Contact" component={Contact} />
-    </body>
     </Router>
     <Footer />
     </>

@@ -18,10 +18,10 @@ const Navbar = () => {
         <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>About Me</Link>
       </li>
       <li class="nav-item">
-        <Link to="/portfolio" className="nav-link">Portfolio</Link>
+        <Link to="/Portfolio" className="nav-link">Portfolio</Link>
       </li>
       <li class="nav-item">
-        <Link to="/contact" className="nav-link">Contact</Link>
+        <Link to="/Contact" className="nav-link">Contact</Link>
       </li>
     </ul>
   </div>
